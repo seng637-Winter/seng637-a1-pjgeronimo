@@ -1,3 +1,5 @@
 # seng637-a1
 
-Read [the assignment guideline](seng637-a1.md) 
+[Lab report](seng637-a1-21.md)
+
+[Defect report](seng637-a1-defect-report-21.csv)
